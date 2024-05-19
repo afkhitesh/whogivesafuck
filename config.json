@@ -2,7 +2,8 @@
   "users": [
     {
       "email": "example@example.com",
-      "password": "examplePassword"
+      "password": "examplePassword" , 
+      "name" : "Hitesh"
     }
   ]
 }
