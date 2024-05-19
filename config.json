@@ -1,11 +1,8 @@
 {
   "users": [
     {
-      "name": "John Doe",
-      "section": "Doe",
-      "email": "john@example.com",
-      "password": "********"
+      "email": "example@example.com",
+      "password": "examplePassword"
     }
   ]
 }
-
