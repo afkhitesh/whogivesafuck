@@ -4,11 +4,6 @@
       "email": "example@example.com",
       "password": "examplePassword" , 
       "name" : "Hitesh"
-    },
-    {
-    "email" : "hitesh@hitesh.com" , 
-    "password" : "@Hitesh986858", 
-    "name" : "Hitesh Onwr" 
-    }, 
+    }
   ]
 }
